@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>兔酱的博客</title>
+    <description>Write your description of your site here</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 18 Sep 2014 16:17:14 +0800</pubDate>
+    <lastBuildDate>Thu, 18 Sep 2014 16:17:14 +0800</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;p&gt;Hello World :]&lt;/p&gt;
+
+&lt;p&gt;从今天兔酱就可以在这里写自己的博客啦~&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Sep 2014 00:00:00 +0800</pubDate>
+        <link>http://yourdomain.com/freewrite/2014/09/19/helloworld/</link>
+        <guid isPermaLink="true">http://yourdomain.com/freewrite/2014/09/19/helloworld/</guid>
+        
+        
+        <category>freewrite</category>
+        
+      </item>
+    
+  </channel>
+</rss>

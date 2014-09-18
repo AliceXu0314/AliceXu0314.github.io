@@ -1,0 +1,15 @@
+# Site settings
+title: 兔酱的博客
+email: 100999088@qq.com
+description: "Write your description of your site here"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: Not work in China :(
+github_username:  AliceXu0314
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Other settings
+comments: true
